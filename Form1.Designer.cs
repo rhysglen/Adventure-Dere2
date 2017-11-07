@@ -94,7 +94,7 @@
             this.button1.BackColor = System.Drawing.Color.LightCoral;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Location = new System.Drawing.Point(125, 101);
+            this.button1.Location = new System.Drawing.Point(125, 109);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 5;
