@@ -56,11 +56,11 @@
             // 
             // outputLabel
             // 
-            this.outputLabel.Font = new System.Drawing.Font("Papyrus", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.outputLabel.Font = new System.Drawing.Font("Papyrus", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputLabel.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.outputLabel.Location = new System.Drawing.Point(12, 85);
             this.outputLabel.Name = "outputLabel";
-            this.outputLabel.Size = new System.Drawing.Size(336, 145);
+            this.outputLabel.Size = new System.Drawing.Size(360, 166);
             this.outputLabel.TabIndex = 1;
             // 
             // questionLabel
@@ -70,7 +70,7 @@
             this.questionLabel.Name = "questionLabel";
             this.questionLabel.Size = new System.Drawing.Size(352, 50);
             this.questionLabel.TabIndex = 2;
-            this.questionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.questionLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // question2Label
             // 
@@ -79,7 +79,7 @@
             this.question2Label.Name = "question2Label";
             this.question2Label.Size = new System.Drawing.Size(352, 50);
             this.question2Label.TabIndex = 3;
-            this.question2Label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.question2Label.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // question3Label
             // 
@@ -88,7 +88,7 @@
             this.question3Label.Name = "question3Label";
             this.question3Label.Size = new System.Drawing.Size(352, 50);
             this.question3Label.TabIndex = 4;
-            this.question3Label.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.question3Label.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // beginButton
             // 
@@ -108,7 +108,7 @@
             // 
             this.mLabel.Font = new System.Drawing.Font("Mistral", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mLabel.ForeColor = System.Drawing.Color.DarkRed;
-            this.mLabel.Location = new System.Drawing.Point(19, 251);
+            this.mLabel.Location = new System.Drawing.Point(19, 260);
             this.mLabel.Name = "mLabel";
             this.mLabel.Size = new System.Drawing.Size(41, 50);
             this.mLabel.TabIndex = 8;

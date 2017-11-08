@@ -166,4 +166,31 @@
   <data name="images__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="chitoge" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chitoge_Game_Key_Visual.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dance" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dance.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fail_Sound_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fail Sound 1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Fail_Sound_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fail Sound 2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="rain" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\rain.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Success_Sound_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Success Sound 1.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Success_Sound_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Success Sound 2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="zoo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zoo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zoo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\zoo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

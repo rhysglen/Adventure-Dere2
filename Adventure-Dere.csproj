@@ -127,5 +127,32 @@
   <ItemGroup>
     <None Include="Resources\icons8-romance.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chitoge_Game_Key_Visual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rain.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fail Sound 1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fail Sound 2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Success Sound 2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Success Sound 1.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
