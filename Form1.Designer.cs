@@ -66,7 +66,7 @@
             // questionLabel
             // 
             this.questionLabel.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.questionLabel.Location = new System.Drawing.Point(66, 251);
+            this.questionLabel.Location = new System.Drawing.Point(66, 263);
             this.questionLabel.Name = "questionLabel";
             this.questionLabel.Size = new System.Drawing.Size(352, 50);
             this.questionLabel.TabIndex = 2;
@@ -139,9 +139,9 @@
             // 
             // photoBox
             // 
-            this.photoBox.Location = new System.Drawing.Point(367, -2);
+            this.photoBox.Location = new System.Drawing.Point(378, -2);
             this.photoBox.Name = "photoBox";
-            this.photoBox.Size = new System.Drawing.Size(379, 502);
+            this.photoBox.Size = new System.Drawing.Size(368, 502);
             this.photoBox.TabIndex = 7;
             this.photoBox.TabStop = false;
             // 
