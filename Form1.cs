@@ -28,7 +28,7 @@ namespace Adventure_Dere
             // initial output // start of the game// random values
             photoBox.Image = Properties.Resources._class;
             outputLabel.Text = "Press M to select the first choice, and B for the second choice, it goes down in that order, and press N to restart.";
-            button1.Visible = false;
+            beginButton.Visible = false;
             outputLabel.Text = "You are a boy in your second year of high school.";
             outputLabel.Text += "The school dance is coming up and you do not have a date. ";
             outputLabel.Text += "There are two girls in your class who also do not have a date. ";
